@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ochanissi/Monsters-Rolodex.git/static/css/main.130922cd.chunk.css",
-    "main.js": "/Ochanissi/Monsters-Rolodex.git/static/js/main.843c8161.chunk.js",
-    "main.js.map": "/Ochanissi/Monsters-Rolodex.git/static/js/main.843c8161.chunk.js.map",
-    "runtime-main.js": "/Ochanissi/Monsters-Rolodex.git/static/js/runtime-main.0a84d5b8.js",
-    "runtime-main.js.map": "/Ochanissi/Monsters-Rolodex.git/static/js/runtime-main.0a84d5b8.js.map",
-    "static/js/2.d562cfe4.chunk.js": "/Ochanissi/Monsters-Rolodex.git/static/js/2.d562cfe4.chunk.js",
-    "static/js/2.d562cfe4.chunk.js.map": "/Ochanissi/Monsters-Rolodex.git/static/js/2.d562cfe4.chunk.js.map",
-    "index.html": "/Ochanissi/Monsters-Rolodex.git/index.html",
-    "precache-manifest.02d71cbe7ff5c267825a50d3bd8e254c.js": "/Ochanissi/Monsters-Rolodex.git/precache-manifest.02d71cbe7ff5c267825a50d3bd8e254c.js",
-    "service-worker.js": "/Ochanissi/Monsters-Rolodex.git/service-worker.js",
-    "static/css/main.130922cd.chunk.css.map": "/Ochanissi/Monsters-Rolodex.git/static/css/main.130922cd.chunk.css.map",
-    "static/js/2.d562cfe4.chunk.js.LICENSE.txt": "/Ochanissi/Monsters-Rolodex.git/static/js/2.d562cfe4.chunk.js.LICENSE.txt"
+    "main.css": "/Ochanissi/Monsters-Rolodex/static/css/main.130922cd.chunk.css",
+    "main.js": "/Ochanissi/Monsters-Rolodex/static/js/main.8c15e83d.chunk.js",
+    "main.js.map": "/Ochanissi/Monsters-Rolodex/static/js/main.8c15e83d.chunk.js.map",
+    "runtime-main.js": "/Ochanissi/Monsters-Rolodex/static/js/runtime-main.793c15ad.js",
+    "runtime-main.js.map": "/Ochanissi/Monsters-Rolodex/static/js/runtime-main.793c15ad.js.map",
+    "static/js/2.d562cfe4.chunk.js": "/Ochanissi/Monsters-Rolodex/static/js/2.d562cfe4.chunk.js",
+    "static/js/2.d562cfe4.chunk.js.map": "/Ochanissi/Monsters-Rolodex/static/js/2.d562cfe4.chunk.js.map",
+    "index.html": "/Ochanissi/Monsters-Rolodex/index.html",
+    "precache-manifest.c17f806f6df8ab04fbc8b36f91adff03.js": "/Ochanissi/Monsters-Rolodex/precache-manifest.c17f806f6df8ab04fbc8b36f91adff03.js",
+    "service-worker.js": "/Ochanissi/Monsters-Rolodex/service-worker.js",
+    "static/css/main.130922cd.chunk.css.map": "/Ochanissi/Monsters-Rolodex/static/css/main.130922cd.chunk.css.map",
+    "static/js/2.d562cfe4.chunk.js.LICENSE.txt": "/Ochanissi/Monsters-Rolodex/static/js/2.d562cfe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a84d5b8.js",
+    "static/js/runtime-main.793c15ad.js",
     "static/js/2.d562cfe4.chunk.js",
     "static/css/main.130922cd.chunk.css",
-    "static/js/main.843c8161.chunk.js"
+    "static/js/main.8c15e83d.chunk.js"
   ]
 }
