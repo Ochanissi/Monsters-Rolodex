@@ -1,5 +1,5 @@
 {
-  "name": "Monsters-Rolodex",
+  "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,6 +19,16 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ochanissi/Monsters-Rolodex.git"
+  },
+  "author": "Mirel Bitoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ochanissi/Monsters-Rolodex/issues"
+  },
+  "homepage": "https://ochanissi.github.io/Monsters-Rolodex/",
   "eslintConfig": {
     "extends": "react-app"
   },
